@@ -79,7 +79,7 @@ document.querySelector("form").addEventListener("submit", (e) => {
         sortplayer();
     });
 
-    // Sort players initially after adding a new player
+  
     sortplayer();
 });
 
